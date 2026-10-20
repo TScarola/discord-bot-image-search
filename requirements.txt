@@ -1,5 +1,6 @@
-discord.py
-aiohttp
-asyncio
-os
+discord.py[voice]>=2.4
+discord-ext-voice-recv
 faster-whisper
+numpy
+aiohttp
+python-dotenv

@@ -1,0 +1,1 @@
+Bot for my discord server with my friends that will find an image whenever someone says the phrase "Show me"
